@@ -1,0 +1,13 @@
+@import "base/bootstrap-reboot";
+@import "base/vars";
+@import "base/container";
+@import "base/fonts";
+@import "base/icons-font";
+
+@import "blocks/footer";
+@import "blocks/header";
+@import "media/media";
+
+// &display=swap  - добавить в конец кода при использовании плагина для подключения шрифта
+
+//шрифт за замовчуванням вказати в бутстрапі, або підключити самому.
