@@ -1,6 +1,7 @@
-.container {
+._container {
   width: 100%;
   padding: 0 15px;
+  //max-width робити на 30px більше бо додаємо по 15px з кожної сторони відступів
   max-width: 1440px;
   margin: 0 auto;
 }

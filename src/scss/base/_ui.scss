@@ -1,0 +1,11 @@
+//reusable stiles
+._title {
+}
+.btn {
+  display: inline-flex;
+  padding: 0px 0px;
+  @media (min-width: ($md2 + px)) {
+    &:hover {
+    }
+  }
+}
